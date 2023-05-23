@@ -1,4 +1,3 @@
-# Semestrální projekt z předmětu Testování softwaru (TS1)
 # Semester project from the subject Software Testing (TS1)
 # Selenium tests of the website
 
