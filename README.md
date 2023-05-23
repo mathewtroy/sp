@@ -1,8 +1,7 @@
 # Semester project from the subject Software Testing (TS1)
 # Selenium tests of the website
 
-## Cvičící: Václav Smítka
-## Zpracovali: Aleksandr Kross, Vladyslav Hordiienko  
+## Authors: Aleksandr Kross, Vladyslav Hordiienko  
 [**Email of Aleksandr Kross**](<krossale@fel.czut.cz>) <br>
 [**Email of Vladyslav Hordiienko**](<hordivla@fel.cvut.cz>) <br>
 
@@ -11,49 +10,49 @@
 
 
 ### CartPage ✅
-[Odkaz na CartPage.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/main/java/cz/cvut/fel/ts1/CartPage.java)
+[Link to CartPage.java ](https://github.com/mathewtroy/sp/blob/main/src/main/java/cz/cvut/fel/ts1/CartPage.java)
 
 
 ### ChangeAddressPage ✅
-[Odkaz na ChangeAddressPage.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/main/java/cz/cvut/fel/ts1/ChangeAddressPage.java)
+[Link to ChangeAddressPage.java ](https://github.com/mathewtroy/sp/blob/main/src/main/java/cz/cvut/fel/ts1/ChangeAddressPage.java)
 
 
 ### FavouriteListPage ✅
-[Odkaz na FavouriteListPage.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/main/java/cz/cvut/fel/ts1/FavouriteListPage.java)
+[Link to FavouriteListPage.java ](https://github.com/mathewtroy/sp/blob/main/src/main/java/cz/cvut/fel/ts1/FavouriteListPage.java)
 
 
 ### LoginPage ✅
-[Odkaz na LoginPage.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/main/java/cz/cvut/fel/ts1/LoginPage.java)
+[Link to LoginPage.java ](https://github.com/mathewtroy/sp/blob/main/src/main/java/cz/cvut/fel/ts1/LoginPage.java)
 
 
 ### ReviewPage ✅
-[Odkaz na ReviewPage.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/main/java/cz/cvut/fel/ts1/ReviewPage.java)
+[Link to ReviewPage.java ](https://github.com/mathewtroy/sp/blob/main/src/main/java/cz/cvut/fel/ts1/ReviewPage.java)
 
 
 ### SearchPage ✅
-[Odkaz na SearchPage.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/main/java/cz/cvut/fel/ts1/SearchPage.java)
+[Link to SearchPage.java ](https://github.com/mathewtroy/sp/blob/main/src/main/java/cz/cvut/fel/ts1/SearchPage.java)
 
 
 ## Tests
 
 ### CartPageTest ✅
-[Odkaz na CartPageTests.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/test/java/cz/cvut/fel/ts1/CartPageTest.java)
+[Link to CartPageTests.java ](https://github.com/mathewtroy/sp/blob/main/src/test/java/cz/cvut/fel/ts1/CartPageTest.java)
 
 
 ### ChangeAddressPageTest ✅
-[Odkaz na ChangeAddressPageTest.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/test/java/cz/cvut/fel/ts1/ChangeAddressPageTest.java)
+[Link to ChangeAddressPageTest.java ](https://github.com/mathewtroy/sp/blob/main/src/test/java/cz/cvut/fel/ts1/ChangeAddressPageTest.java)
 
 
 ### LoginPageTest ✅
-[Odkaz na LoginPage.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/test/java/cz/cvut/fel/ts1/LoginPageTest.java)
+[Link to LoginPage.java ](https://github.com/mathewtroy/sp/blob/main/src/test/java/cz/cvut/fel/ts1/LoginPageTest.java)
 
 
 ### ReviewPageTest ✅
-[Odkaz na ReviewPageTest.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/test/java/cz/cvut/fel/ts1/ReviewPageTest.java)
+[Link to ReviewPageTest.java ](https://github.com/mathewtroy/sp/blob/main/src/test/java/cz/cvut/fel/ts1/ReviewPageTest.java)
 
 
 ### SearchPageTest ✅
-[Odkaz na SearchPageTests.java ](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/src/test/java/cz/cvut/fel/ts1/SearchPageTest.java)
+[Link to SearchPageTests.java ](https://github.com/mathewtroy/sp/blob/main/src/test/java/cz/cvut/fel/ts1/SearchPageTest.java)
 
 
 
@@ -61,6 +60,6 @@
 
 
 ## Documentation ✅ 
-[Odkaz na dokumentace](https://gitlab.fel.cvut.cz/krossale/ts1_sp/-/blob/main/docs/ts1-sp.pdf)
+[Link to documentation](https://github.com/mathewtroy/sp/blob/main/docs/ts1-sp.pdf)
 
 
