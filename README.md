@@ -1,3 +1,19 @@
+# TS1 (Testování softwaru)
+**Code**: B6B36TS1<br>
+**Name**: Software Testing<br>
+**Faculty**: Faculty of Electrical Engineering<br>
+**Department**: 13136 - Department of Computer Science <br>
+
+## Synopsis
+
+The content of the subject is a basic introduction to the issue of testing software systems from the perspective of a tester and a test analyst. <br>
+The first part of the subject, after an introduction to the issue and basic terminology, deals with methods for the design <br>
+and execution of test scenarios for manual testing and the design of tests at the code level.<br>
+The section on unit tests at the code level will be given special attention. <br>
+The subsequent second part of the subject is then devoted to test automation, the infrastructure for testing, <br>
+including the preparation of test data, and the creation of a test strategy, including the basics of test planning.<br>
+The course combines theoretical knowledge and methods for testing with comments on their practical application on a software development project.
+
 # Semester project from the subject Software Testing (TS1)
 # Selenium tests of the website
 
